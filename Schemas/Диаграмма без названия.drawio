@@ -1456,7 +1456,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-47" value="Транспорт" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1008.75" y="1570" width="100" height="40" as="geometry" />
+          <mxGeometry x="1024.75" y="1570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="zcHo5nSnOAK08hxv5OJx-48" target="zcHo5nSnOAK08hxv5OJx-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1471,7 +1471,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-48" value="Маршрут" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1009" y="1730" width="100" height="40" as="geometry" />
+          <mxGeometry x="1025" y="1730" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="zcHo5nSnOAK08hxv5OJx-49" target="zcHo5nSnOAK08hxv5OJx-50" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1536,10 +1536,10 @@
           <mxGeometry x="761.5" y="1850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-68" value="Локация отправления" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="954" y="1800" width="100" height="40" as="geometry" />
+          <mxGeometry x="970" y="1800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcHo5nSnOAK08hxv5OJx-69" value="Локация прибытия" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1059" y="1800" width="100" height="40" as="geometry" />
+          <mxGeometry x="1075" y="1800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="so3-Xci-ZJlNtOH0VfDN-1" target="so3-Xci-ZJlNtOH0VfDN-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1611,16 +1611,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-43" value="Едет по" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="999" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1015" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-46" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1054" y="1706" width="30" height="30" as="geometry" />
+          <mxGeometry x="1070" y="1706" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-47" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="1606" width="30" height="30" as="geometry" />
+          <mxGeometry x="1071" y="1606" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-48" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1725" width="30" height="30" as="geometry" />
+          <mxGeometry x="997" y="1725" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-50" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="804" y="1826" width="30" height="30" as="geometry" />
@@ -1638,7 +1638,7 @@
           <mxGeometry x="1373" y="1504" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-67" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="1553" width="30" height="30" as="geometry" />
+          <mxGeometry x="1118" y="1553" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-68" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1157.95" y="1476" width="30" height="30" as="geometry" />
@@ -1674,7 +1674,7 @@
           <mxGeometry x="806" y="1614" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-83" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="984" y="1577" width="30" height="30" as="geometry" />
+          <mxGeometry x="1000" y="1577" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-84" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="856" y="1575" width="30" height="30" as="geometry" />
@@ -1734,7 +1734,7 @@
           <mxGeometry x="513" y="1235" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-106" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="1725" width="30" height="30" as="geometry" />
+          <mxGeometry x="1118" y="1725" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-107" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1607" width="30" height="30" as="geometry" />
@@ -1768,9 +1768,6 @@
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-117" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="882" y="1124" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="so3-Xci-ZJlNtOH0VfDN-119" value="Почему не соединяю бригаду с активом?&lt;br&gt;Потому что через управляющего можно найти бригаду,&lt;br&gt;работающей на активе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1060" width="330" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-120" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1135" y="1465" width="30" height="30" as="geometry" />
         </mxCell>
@@ -1794,6 +1791,24 @@
         </mxCell>
         <mxCell id="so3-Xci-ZJlNtOH0VfDN-127" value="Количество" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="so3-Xci-ZJlNtOH0VfDN-131" target="so3-Xci-ZJlNtOH0VfDN-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="so3-Xci-ZJlNtOH0VfDN-131" target="so3-Xci-ZJlNtOH0VfDN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-131" value="Находится" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-134" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="970" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-135" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="1094" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="so3-Xci-ZJlNtOH0VfDN-136" value="Надо ли привязывать актив к отчету?&lt;br&gt;Или актив можно найти через работника (и это достаточно)?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1170" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
