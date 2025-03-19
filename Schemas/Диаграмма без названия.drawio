@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2755" dy="2862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2966" dy="2994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1865,6 +1865,9 @@
         <mxCell id="b6XinIKb5QlxlanPmFPd-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-127" target="b6XinIKb5QlxlanPmFPd-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-127" target="b6XinIKb5QlxlanPmFPd-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-127" value="Транспортное средство" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1597.5" y="2310" width="161.12" height="40" as="geometry" />
         </mxCell>
@@ -1928,6 +1931,9 @@
         <mxCell id="b6XinIKb5QlxlanPmFPd-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-149" target="b6XinIKb5QlxlanPmFPd-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-149" target="b6XinIKb5QlxlanPmFPd-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-149" value="Тип транспортного&lt;br&gt;средства" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1597.5" y="2090" width="161.12" height="40" as="geometry" />
         </mxCell>
@@ -1945,6 +1951,74 @@
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-156" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1650" y="2170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-158" target="b6XinIKb5QlxlanPmFPd-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-158" value="Актив предприятия" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="918.38" y="2320" width="161.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-160" target="b6XinIKb5QlxlanPmFPd-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883.38" y="2260" />
+              <mxPoint x="883.38" y="2340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-160" value="принадлежит" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="938.9399999999999" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-163" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="887.88" y="2310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-164" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="967.88" y="2290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-165" target="b6XinIKb5QlxlanPmFPd-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-165" value="Характеристика" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1980" width="161.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-166" target="b6XinIKb5QlxlanPmFPd-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-166" value="Тип транспортного средства - характеристика" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="2090" width="161.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-169" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="2080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-170" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="2080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-171" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-172" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-173" value="Характеристика типа транспортного средства - транспорт" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="2200" width="161.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-175" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-176" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-178" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1758.62" y="2300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-179" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="b6XinIKb5QlxlanPmFPd-180" target="b6XinIKb5QlxlanPmFPd-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6XinIKb5QlxlanPmFPd-180" value="значение" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="2090" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
