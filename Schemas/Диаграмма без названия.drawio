@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2909" dy="2834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2828" dy="2634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1848,13 +1848,13 @@
             <mxPoint x="1117.3899999999999" y="2360" as="sourcePoint" />
             <mxPoint x="1027.1100000000001" y="2500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1089.1100000000001" y="2360" />
-              <mxPoint x="1089.1100000000001" y="2500" />
-              <mxPoint x="1023.11" y="2500" />
+              <mxPoint x="1100" y="2360" />
+              <mxPoint x="1100" y="2500" />
+              <mxPoint x="1023" y="2500" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6XinIKb5QlxlanPmFPd-115" value="Персона" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="b6XinIKb5QlxlanPmFPd-115" value="Работник" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1072.6100000000001" y="2320" width="161.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="b6XinIKb5QlxlanPmFPd-116" target="b6XinIKb5QlxlanPmFPd-117" edge="1">
@@ -1884,7 +1884,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-121" value="подчиняется" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1095.1100000000001" y="2390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="2390" width="105.11" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-124" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1123.6100000000001" y="2290" width="30" height="30" as="geometry" />
@@ -1914,7 +1914,7 @@
           <mxGeometry x="1472.6100000000001" y="2310" width="161.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-128" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1123.6100000000001" y="2360" width="30" height="30" as="geometry" />
+          <mxGeometry x="1130.6100000000001" y="2360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-129" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1230.5600000000002" y="2340" width="30" height="30" as="geometry" />
@@ -2007,7 +2007,7 @@
         <mxCell id="b6XinIKb5QlxlanPmFPd-195" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1890" y="2170" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6XinIKb5QlxlanPmFPd-199" value="Персона - Характеристика" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="b6XinIKb5QlxlanPmFPd-199" value="Работник - Характеристика" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="861.49" y="2480" width="161.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b6XinIKb5QlxlanPmFPd-204" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -2218,7 +2218,7 @@
         <mxCell id="bRVIyfw4gdlml7SXyvKm-42" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2012" y="2354" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bRVIyfw4gdlml7SXyvKm-43" value="Персона - Транспортное средство" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="bRVIyfw4gdlml7SXyvKm-43" value="Работник - Транспортное средство" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1288.3000000000002" y="2310" width="128.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRVIyfw4gdlml7SXyvKm-45" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -2268,6 +2268,9 @@
         </mxCell>
         <mxCell id="S9GmqQYo-R2V5wcXkACS-16" value="М" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="2350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S9GmqQYo-R2V5wcXkACS-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1073.11" y="2360" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
