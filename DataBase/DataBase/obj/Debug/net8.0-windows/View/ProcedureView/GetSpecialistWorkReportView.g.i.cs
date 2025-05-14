@@ -53,7 +53,7 @@ namespace DataBase.View.ProcedureView {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DataBase;V1.0.0.0;component/view/procedureview/getspecialistworkreportview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DataBase;component/view/procedureview/getspecialistworkreportview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\ProcedureView\GetSpecialistWorkReportView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

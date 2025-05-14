@@ -32,16 +32,16 @@
             <TabControl Grid.Row="1" x:Name="Tabs" SelectedValuePath="Tag"
                         SelectedValue="{Binding CurrentTabTag, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                         SelectedIndex="0">
-                <TabItem Header="Views" Tag="Views">
+                <TabItem Header="Views" Tag="Views" IsEnabled="{Binding isEmployee}">
                     <ContentControl Content="{Binding SelectedVM}"/>
                 </TabItem>
-                <TabItem Header="Procedures" Tag="Procedures">
+                <TabItem Header="Procedures" Tag="Procedures" IsEnabled="{Binding IsManager}">
                     <ContentControl Content="{Binding SelectedVM}"/>
                 </TabItem>
-                <TabItem Header="Manager" Tag="Manager">
+                <TabItem Header="Manager" Tag="Manager" IsEnabled="{Binding IsManager}">
                     <ContentControl Content="{Binding SelectedVM}"/>
                 </TabItem>
-                <TabItem Header="Admin" Tag="Admin">
+                <TabItem Header="Admin" Tag="Admin" IsEnabled="{Binding IsAdmin}">
                     <ContentControl Content="{Binding SelectedVM}"/>
                 </TabItem>
             </TabControl>
@@ -52,8 +52,8 @@
                 <RowDefinition Height="40"/>
                 <RowDefinition Height="1*"/>
             </Grid.RowDefinitions>
-            <Label Grid.Row="0" FontSize="14" Margin="5 0 0 0" Content="Logs" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
-            <DataGrid Grid.Row="1" ItemsSource="{Binding LogTable}" AutoGenerateColumns="True" IsReadOnly="True"/>
+            <Label Grid.Row="0" FontSize="14" Margin="5 0 0 0" Content="Logs (Only for admin)" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+            <DataGrid Grid.Row="1" ItemsSource="{Binding LogTable}" AutoGenerateColumns="True" IsReadOnly="True" Visibility="{Binding AreLogsHidden}"/>
         </Grid>
     </Grid>
 </Window>

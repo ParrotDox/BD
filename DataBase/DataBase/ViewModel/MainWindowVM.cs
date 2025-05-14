@@ -47,12 +47,33 @@ namespace DataBase.ViewModel
             }
         }
         public string Role { get; set; }
+        //Доступ к функционалу в зависимости от роли
+        public bool IsEmployee { get; set; }
+        public bool IsManager { get; set; }
+        public bool IsAdmin { get; set; }
+        public string AreLogsHidden { get; set; }
         public MainWindowVM()
         {
             cachedVM = new() { new ViewsVM(), new ProceduresVM(), new ManagerVM(), new AdminVM() };
             SelectedVM = cachedVM[0];
             Role = Model.User.Role;
             LogTable = Database.LogTable;
+
+            IsEmployee = User.Role == "Employee" || User.Role == "Manager" || User.Role == "Admin" ? true : false;
+            IsManager = User.Role == "Manager" || User.Role == "Admin" ? true : false;
+            IsAdmin = User.Role == "Admin" ? true : false;
+            if(User.Role == "Employee") 
+            {
+                AreLogsHidden = "Hidden";
+            }
+            if (User.Role == "Manager")
+            {
+                AreLogsHidden = "Hidden";
+            }
+            if (User.Role == "Admin")
+            {
+                AreLogsHidden = "Visible";
+            }
         }
         public void UpdateView(string tag) 
         {

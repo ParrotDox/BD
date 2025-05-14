@@ -4,9 +4,34 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:DataBase.View"
+             xmlns:tabTableViewModel="clr-namespace:DataBase.ViewModel.TabTableViewModel"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-        <Label Content="AdminView"/>
-    </Grid>
+             d:DesignHeight="750" d:DesignWidth="800">
+
+    <!-- Устанавливаем DataContext на ViewModel AdminVM -->
+    <UserControl.DataContext>
+        <tabTableViewModel:AdminVM />
+    </UserControl.DataContext>
+    
+    <StackPanel Margin="10">
+        <!-- Поле для ввода SQL команды -->
+        <Label Content="SQL query" FontSize="18"/>
+        <TextBox Name="SqlCommandTextBox" FontSize="18" Height="300" VerticalAlignment="Top" Margin="0,10,0,0" HorizontalAlignment="Stretch"
+         AcceptsReturn="True"
+         Text="{Binding SqlCommand, UpdateSourceTrigger=PropertyChanged}" />
+        <!-- Кнопка для выполнения запроса -->
+        <Button Content="Выполнить" FontSize="18" Width="140" Height="50" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,20,0,10"
+        Command="{Binding ExecuteCommand}" />
+
+        <!-- Поле для отображения текста результата -->
+        <Label Content="Result" FontSize="18"/>
+        <TextBox Name="ResultTextBox" Height="30" VerticalAlignment="Top" Margin="0,20,0,0" HorizontalAlignment="Stretch"
+         Text="{Binding ResultText}" IsReadOnly="True" VerticalScrollBarVisibility="Auto" />
+        <Label Content="Result (table)" FontSize="18"/>
+        <!-- DataGrid для отображения данных -->
+        <DataGrid Name="ResultDataGrid" VerticalAlignment="Top" Margin="0,20,0,0" HorizontalAlignment="Stretch"
+          ItemsSource="{Binding QueryTable}" AutoGenerateColumns="True" />
+        
+    </StackPanel>
 </UserControl>
+
