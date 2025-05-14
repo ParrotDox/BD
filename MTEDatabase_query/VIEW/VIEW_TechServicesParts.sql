@@ -1,0 +1,7 @@
+CREATE VIEW V_TechServicesParts
+AS
+SELECT
+TechServiceParts.Id,
+TechServiceParts.TechServiceId,
+TechServiceParts.PartId
+FROM TechServiceParts

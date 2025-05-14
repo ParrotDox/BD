@@ -1,0 +1,9 @@
+CREATE TABLE TechServices(
+Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+EmployeeId INT NOT NULL,
+VehicleId INT NOT NULL,
+Mileage INT NOT NULL CHECK(Mileage > 0),
+CarriedAt DATE NOT NULL,
+FOREIGN KEY(EmployeeId) REFERENCES Employees(Id),
+FOREIGN KEY(VehicleId) REFERENCES Vehicles(Id)
+);

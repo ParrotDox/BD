@@ -1,0 +1,114 @@
+﻿<UserControl x:Class="DataBase.View.ManagerView.Employees"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DataBase.View.ManagerView"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- INSERT Section -->
+        <Border Grid.Column="0" Margin="5">
+            <StackPanel>
+                <Label Content="INSERT" HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" Margin="0 0 0 10"/>
+
+                <Label Content="Forename (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Forename}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Surname (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Surname}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Patronymic (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Patronymic}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Position id (Necessarily, valid PositionId)"/>
+                <TextBox Text="{Binding PositionId}" Margin="0 0 0 5"/>
+
+                <Label Content="Manager id (Nullable, self-referential)"/>
+                <TextBox Text="{Binding ManagerId}" Margin="0 0 0 5"/>
+
+                <Label Content="Brigade id (Nullable, foreign key to Brigades)"/>
+                <TextBox Text="{Binding BrigadeId}" Margin="0 0 0 10"/>
+
+                <Button Content="Execute insert" 
+                    Command="{Binding ExecuteQueryCommand}" 
+                    CommandParameter="INSERT" 
+                    Width="150" 
+                    HorizontalAlignment="Center" 
+                    Padding="5"/>
+            </StackPanel>
+        </Border>
+
+        <!-- UPDATE Section -->
+        <Border Grid.Column="1" Margin="5">
+            <StackPanel>
+                <Label Content="UPDATE" HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" Margin="0 0 0 10"/>
+
+                <Label Content="Id (Necessarily)"/>
+                <TextBox Text="{Binding Id}" Margin="0 0 0 5"/>
+
+                <Label Content="Forename (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Forename}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Surname (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Surname}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Patronymic (Necessarily, max length 50)"/>
+                <TextBox Text="{Binding Patronymic}" MaxLength="50" Margin="0 0 0 5"/>
+
+                <Label Content="Position id (Necessarily, valid PositionId)"/>
+                <TextBox Text="{Binding PositionId}" Margin="0 0 0 5"/>
+
+                <Label Content="Manager id (Nullable, self-referential)"/>
+                <TextBox Text="{Binding ManagerId}" Margin="0 0 0 5"/>
+
+                <Label Content="Brigade id (Nullable, foreign key to Brigades)"/>
+                <TextBox Text="{Binding BrigadeId}" Margin="0 0 0 10"/>
+
+                <Button Content="Execute update" 
+                    Command="{Binding ExecuteQueryCommand}" 
+                    CommandParameter="UPDATE" 
+                    Width="150" 
+                    HorizontalAlignment="Center" 
+                    Padding="5"/>
+            </StackPanel>
+        </Border>
+
+        <!-- DELETE Section -->
+        <Border Grid.Column="2" Margin="5">
+            <StackPanel>
+                <Label Content="DELETE" HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" Margin="0 0 0 10"/>
+
+                <Label Content="Id (Necessarily)"/>
+                <TextBox Text="{Binding Id}" Margin="0 0 0 10"/>
+
+                <Button Content="Execute delete" 
+                    Command="{Binding ExecuteQueryCommand}" 
+                    CommandParameter="DELETE" 
+                    Width="150" 
+                    HorizontalAlignment="Center" 
+                    Padding="5"/>
+            </StackPanel>
+        </Border>
+
+        <!-- DataGrid Section -->
+        <DataGrid Grid.Row="1" 
+              Grid.ColumnSpan="3" 
+              ItemsSource="{Binding QueryTable}" 
+              IsReadOnly="True"
+              Margin="5 10 5 5"
+              AutoGenerateColumns="True"
+              VerticalScrollBarVisibility="Auto"/>
+    </Grid>
+
+</UserControl>

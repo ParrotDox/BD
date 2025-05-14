@@ -1,0 +1,112 @@
+﻿<Application x:Class="DataBase.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataBase"
+             xmlns:tabTableViews="clr-namespace:DataBase.View.TabTableView"
+             xmlns:tabTableViewModel ="clr-namespace:DataBase.ViewModel.TabTableViewModel"
+             xmlns:procedureViews="clr-namespace:DataBase.View.ProcedureView"
+             xmlns:procedureViewModel="clr-namespace:DataBase.ViewModel.ProcedureViewModel"
+             xmlns:managerViews="clr-namespace:DataBase.View.ManagerView"
+             xmlns:managerViewModel="clr-namespace:DataBase.ViewModel.ManagerViewModel"
+             StartupUri="View/MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type tabTableViewModel:ViewsVM}">
+            <tabTableViews:ViewsView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type tabTableViewModel:ProceduresVM}">
+            <tabTableViews:ProceduresView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type tabTableViewModel:ManagerVM}">
+            <tabTableViews:ManagerView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type tabTableViewModel:AdminVM}">
+            <tabTableViews:AdminView/>
+        </DataTemplate>
+        
+        <DataTemplate DataType="{x:Type procedureViewModel:GetTransportPathWaysVM}">
+            <procedureViews:GetTransportPathWayView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetVehicleAcquisitionDisposalVM}">
+            <procedureViews:GetVehicleAcquisitionDisposalView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetCargoTransportHistoryVM}">
+            <procedureViews:GetCargoTransportHistoryView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetDriversByVehicleVM}">
+            <procedureViews:GetDriversByVehicleView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetDriverVehicleDistributionVM}">
+            <procedureViews:GetDriverVehicleDistributionView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetEmployeeHierarchyVM}">
+            <procedureViews:GetEmployeeHierarchyView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetGarageFacilitiesReportVM}">
+            <procedureViews:GetGarageFacilitiesReportView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetRepairCostAnalysisVM}">
+            <procedureViews:GetRepairCostAnalysisView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetSpecialistWorkReportVM}">
+            <procedureViews:GetSpecialistWorkReportView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetTeamMembersVM}">
+            <procedureViews:GetTeamMembersView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetVehicleFleetDataVM}">
+            <procedureViews:GetVehicleFleetDataView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetVehicleMileageReportVM}">
+            <procedureViews:GetVehicleMileageReportView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type procedureViewModel:GetVehiclePartsUsageVM}">
+            <procedureViews:GetVehiclePartsUsageView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerEmployeesVM}">
+            <managerViews:Employees/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerVehiclesVM}">
+            <managerViews:Vehicles/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerAssetsVM}">
+            <managerViews:Assets/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerRoutesVM}">
+            <managerViews:Routes/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerBrigadesVM}">
+            <managerViews:Brigades/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerTechServicesVM}">
+            <managerViews:TechServices/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerPartsVM}">
+            <managerViews:Parts/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerEmployeePropertiesVM}">
+            <managerViews:EmployeeProperties/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerEmployeeEmployeePropertiesVM}">
+            <managerViews:EmployeeEmployeeProperties/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerVehiclePropertiesVM}">
+            <managerViews:VehicleProperties/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerVehicleVehiclePropertiesVM}">
+            <managerViews:VehicleVehicleProperties/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerEmployeeVehiclesVM}">
+            <managerViews:EmployeeVehicles/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerTransitsVM}">
+            <managerViews:Transits/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerAssetTypesVM}">
+            <managerViews:AssetTypes/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type managerViewModel:ManagerTechServicePartsVM}">
+            <managerViews:TechServiceParts/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

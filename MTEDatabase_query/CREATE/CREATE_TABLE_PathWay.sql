@@ -1,0 +1,8 @@
+CREATE TABLE PathWay(
+Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+TypeId INT NOT NULL,
+LengthOfPathWay INT NOT NULL CHECK(LengthOfPathWay >= 1),
+StartLocation VARCHAR(100) NOT NULL CHECK(LEN(StartLocation) >= 1),
+EndLocation VARCHAR(100) NOT NULL CHECK(LEN(EndLocation) >= 1),
+FOREIGN KEY(TypeId) REFERENCES PathWayTypes(Id)
+);

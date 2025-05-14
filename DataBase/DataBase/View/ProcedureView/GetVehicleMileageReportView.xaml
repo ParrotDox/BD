@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="DataBase.View.ProcedureView.GetVehicleMileageReportView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DataBase.View.ProcedureView"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="18"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <StackPanel>
+            <Label Content="Year (necessarily)"/>
+            <TextBox Text="{Binding Year}"/>
+            <Label Content="Month"/>
+            <TextBox Text="{Binding Month}"/>
+            <Label Content="Day"/>
+            <TextBox Text="{Binding Day}"/>
+            <Label Content="Vehicle Id"/>
+            <TextBox Text="{Binding VehicleId}"/>
+            <Label Content="Vehicle type Id (1 - Passenger; 2 - Cargo; 3 - Special; No value - All types)"/>
+            <TextBox Text="{Binding VehicleType}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

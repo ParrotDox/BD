@@ -1,0 +1,4 @@
+CREATE TABLE EmployeeProperties(
+Id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+PropertyName VARCHAR(50) NOT NULL
+);

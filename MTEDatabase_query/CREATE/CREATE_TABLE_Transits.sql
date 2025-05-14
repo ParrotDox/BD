@@ -1,0 +1,8 @@
+CREATE TABLE Transits(
+Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+VehicleId INT NOT NULL,
+CargoQuantity INT NOT NULL CHECK(CargoQuantity >= 0),
+StartedAt DATE NOT NULL,
+EndedAt DATE NOT NULL
+FOREIGN KEY(VehicleId) REFERENCES Vehicles(Id)
+);

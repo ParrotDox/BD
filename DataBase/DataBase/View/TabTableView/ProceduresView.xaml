@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="DataBase.View.TabTableView.ProceduresView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModel ="clr-namespace:DataBase.ViewModel"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DataBase.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="0 0 0 5"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="65*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Grid.RowSpan="2" Margin="5">
+            <Label Content="Procedures" FontSize="18" FontWeight="Bold" HorizontalContentAlignment="Center"/>
+            <Button Content="GetPassengerTransportPathWays" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="0"/>
+            <Button Content="GetVehicleAcquisitionDisposal" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="1"/>
+            <Button Content="GetCargoTransportHistory" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="2"/>
+            <Button Content="GetDriversByVehicle" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="3"/>
+            <Button Content="GetDriverVehicleDistribution" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="4"/>
+            <Button Content="GetEmployeeHierarchy" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="5"/>
+            <Button Content="GetGarageFacilitiesReport" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="6"/>
+            <Button Content="GetRepairCostAnalysis" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="7"/>
+            <Button Content="GetSpecialistWorkReport" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="8"/>
+            <Button Content="GetTeamMembers" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="9"/>
+            <Button Content="GetVehicleFleetData" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="10"/>
+            <Button Content="GetVehicleMileageReport" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="11"/>
+            <Button Content="GetVehiclePartsUsage" Command="{Binding ButtonOptionPressedCommand}" CommandParameter="12"/>
+        </StackPanel>
+        <ContentControl Grid.Column="1" Grid.Row="0" Content="{Binding SelectedVM}"/>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
+        <DataGrid  Margin="0 10 0 0" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" ItemsSource="{Binding QueryTable}" IsReadOnly="True"/>
+        <Button Grid.Column="0" Grid.Row="2" Content="ExecuteProcedure" Margin="5" Command="{Binding ExecuteProcedureCommand}"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,7 @@
+CREATE VIEW V_EmployeeEmployeeProperties
+AS
+SELECT
+EmployeesEmployeeProperties.EmployeeId,
+EmployeesEmployeeProperties.PropertyId,
+EmployeesEmployeeProperties.Val
+FROM EmployeesEmployeeProperties

@@ -1,0 +1,6 @@
+CREATE VIEW V_VehicleProperties
+AS
+SELECT
+VehicleProperties.Id,
+VehicleProperties.PropertyName
+FROM VehicleProperties

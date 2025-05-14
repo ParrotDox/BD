@@ -1,0 +1,4 @@
+CREATE TABLE EmployeePositions(
+Id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+PositionName VARCHAR(50) NOT NULL
+);

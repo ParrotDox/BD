@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\OOP\\DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managervehiclevehiclepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managervehiclevehiclepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managervehiclesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managervehiclesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managervehiclepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managervehiclepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managertransitsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managertransitsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managertechservicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managertechservicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managertechservicepartsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managertechservicepartsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managerroutesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managerroutesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managerpartsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managerpartsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\manageremployeevehiclesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\manageremployeevehiclesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\manageremployeesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\manageremployeesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\manageremployeepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\manageremployeepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\manageremployeeemployeepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\manageremployeeemployeepropertiesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managerbrigadesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managerbrigadesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managerbasevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managerbasevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\managerviewmodel\\managerassettypesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\managerviewmodel\\managerassettypesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\managerview\\techserviceparts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\managerview\\techserviceparts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\managerview\\techserviceparts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\managerview\\techserviceparts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\tabtableviewmodel\\managervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\tabtableviewmodel\\managervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\tabtableview\\managerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\tabtableview\\managerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\managerview\\assettypes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\managerview\\assettypes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\managerview\\transits.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\managerview\\transits.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\view\\tabtableview\\proceduresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\view\\tabtableview\\proceduresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\tabtableviewmodel\\proceduresvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\tabtableviewmodel\\proceduresvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|c:\\git\\oop\\database\\database\\viewmodel\\procedureviewmodel\\procedurebasevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF903D1-A274-47AD-94DE-7D05C4713092}|DataBase\\DataBase.csproj|solutionrelative:database\\viewmodel\\procedureviewmodel\\procedurebasevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 220,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProceduresView.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\TabTableView\\ProceduresView.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\TabTableView\\ProceduresView.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\TabTableView\\ProceduresView.xaml",
+              "RelativeToolTip": "DataBase\\View\\TabTableView\\ProceduresView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T12:40:55.458Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProceduresVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\TabTableViewModel\\ProceduresVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\TabTableViewModel\\ProceduresVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\TabTableViewModel\\ProceduresVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\TabTableViewModel\\ProceduresVM.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:01:54.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProcedureBaseVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ProcedureViewModel\\ProcedureBaseVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ProcedureViewModel\\ProcedureBaseVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ProcedureViewModel\\ProcedureBaseVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ProcedureViewModel\\ProcedureBaseVM.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:49:20.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerVehicleVehiclePropertiesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehicleVehiclePropertiesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehicleVehiclePropertiesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehicleVehiclePropertiesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehicleVehiclePropertiesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:56:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerVehiclesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:56:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerVehiclePropertiesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclePropertiesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclePropertiesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclePropertiesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerVehiclePropertiesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:54.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerTransitsVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTransitsVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTransitsVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTransitsVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTransitsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerTechServicesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerRoutesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerRoutesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerRoutesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerRoutesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerRoutesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerPartsVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerPartsVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerPartsVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerPartsVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerPartsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerEmployeeVehiclesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeVehiclesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeVehiclesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeVehiclesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeVehiclesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:55:06.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerEmployeesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerEmployeePropertiesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeePropertiesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeePropertiesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeePropertiesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeePropertiesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerEmployeeEmployeePropertiesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeEmployeePropertiesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeEmployeePropertiesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeEmployeePropertiesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerEmployeeEmployeePropertiesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:35.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManagerBrigadesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerBrigadesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerBrigadesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerBrigadesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerBrigadesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagerBaseVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerBaseVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerBaseVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerBaseVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerBaseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerAssetTypesVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerAssetTypesVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerAssetTypesVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerAssetTypesVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerAssetTypesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerTechServicePartsVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicePartsVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicePartsVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicePartsVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\ManagerViewModel\\ManagerTechServicePartsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:52:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "DataBase\\Model\\Database.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\Model\\Database.cs",
+              "RelativeToolTip": "DataBase\\Model\\Database.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:42:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TechServiceParts.xaml.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\TechServiceParts.xaml.cs",
+              "RelativeDocumentMoniker": "DataBase\\View\\ManagerView\\TechServiceParts.xaml.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\TechServiceParts.xaml.cs",
+              "RelativeToolTip": "DataBase\\View\\ManagerView\\TechServiceParts.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:36:14.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TechServiceParts.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\TechServiceParts.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\ManagerView\\TechServiceParts.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\TechServiceParts.xaml",
+              "RelativeToolTip": "DataBase\\View\\ManagerView\\TechServiceParts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T13:29:41.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetTypes.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\AssetTypes.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\ManagerView\\AssetTypes.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\AssetTypes.xaml",
+              "RelativeToolTip": "DataBase\\View\\ManagerView\\AssetTypes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T13:20:43.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Transits.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\Transits.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\ManagerView\\Transits.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\ManagerView\\Transits.xaml",
+              "RelativeToolTip": "DataBase\\View\\ManagerView\\Transits.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T13:13:44.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\MainWindowVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\MainWindowVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\MainWindowVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:34:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\MainWindow.xaml",
+              "RelativeToolTip": "DataBase\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T08:34:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerVM.cs",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\TabTableViewModel\\ManagerVM.cs",
+              "RelativeDocumentMoniker": "DataBase\\ViewModel\\TabTableViewModel\\ManagerVM.cs",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\ViewModel\\TabTableViewModel\\ManagerVM.cs",
+              "RelativeToolTip": "DataBase\\ViewModel\\TabTableViewModel\\ManagerVM.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwIcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:46:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\App.xaml",
+              "RelativeDocumentMoniker": "DataBase\\App.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\App.xaml",
+              "RelativeToolTip": "DataBase\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T20:34:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerView.xaml",
+              "DocumentMoniker": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\TabTableView\\ManagerView.xaml",
+              "RelativeDocumentMoniker": "DataBase\\View\\TabTableView\\ManagerView.xaml",
+              "ToolTip": "C:\\GIT\\OOP\\DataBase\\DataBase\\View\\TabTableView\\ManagerView.xaml",
+              "RelativeToolTip": "DataBase\\View\\TabTableView\\ManagerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T19:12:11.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
